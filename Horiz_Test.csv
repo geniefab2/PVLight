@@ -1,0 +1,35 @@
+PartNo.,PartName,Part Type,Material,Thick.,Pipe Size,Length,Width,Weight(Kg)
+101,LEFT DISH,Plate,SA-516 70N,15,,930,930,80
+105,RIGHT DISH,Plate,SA-516 70N,15,,1271,1271,149
+,,,,Total,2201.37,2201,229
+102,S1,Plate,SA-516 70N,17,,2253,500,150
+102,S2,Plate,SA-516 70N,17,,2253,500,150
+103,S4,Plate,SA-516 70N,17,,3539,1195,174
+104,S3,Plate,SA-516 70N,17,,3195,500,213
+,,,,Total,11239.31,2695,687
+
+
+301,N1,Pipe,SA-106 B,STD,"2""  STD",29,,1
+,,,,Total,29,0,1
+
+
+305,N3,Pipe,SA-106 B,STD,"2.5""  STD",78,,1
+,,,,Total,78,0,1
+
+
+309,N5,Pipe,SA-106 B,40,"3""  40",148,,2
+312,N8,Pipe,SA-106 B,40,"3""  40",93,,2
+,,,,Total,241,0,4
+
+
+303,N2,Pipe,SA-106 B,STD,"3""  STD",83,,1
+303,N7,Pipe,SA-106 B,STD,"3""  STD",83,,1
+313,N9,Pipe,SA-106 B,STD,"3""  STD",29,,1
+317,N17,Pipe,SA-106 B,STD,"3""  STD",529,,6
+319,N16,Pipe,SA-106 B,STD,"3""  STD",326,,4
+,,,,Total,1050,0,13
+
+
+307,N4,Pipe,SA-106 B,STD,"4""  STD",74,,2
+307,N10,Pipe,SA-106 B,STD,"4""  STD",74,,2
+,,,,Total,148,0,4
